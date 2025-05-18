@@ -1,7 +1,3 @@
-Avec plaisir ! Voici une version plus **professionnelle** de ton `README` en français, claire, structurée, et prête à être publiée sur GitHub ou présentée dans un projet académique 🧑‍💻📄
-
----
-
 ## 📄 README – Calculatrice en C
 
 ### 🧾 Présentation
@@ -94,7 +90,3 @@ Veux-tu effectuer un autre calcul ? (O/N) : N
 
 Développé dans le cadre de l'apprentissage du langage C.
 Un projet simple, mais essentiel pour maîtriser la logique conditionnelle, les types de données, et la gestion des entrées utilisateur en C.
-
----
-
-Souhaites-tu que je le convertisse aussi en anglais pour un usage international ?
